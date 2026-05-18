@@ -410,12 +410,12 @@ body {
 
     .home,
     .peril-header {
-        width: 80px;
+        width: 30px;
     }
 
     .header-title,
     .header-proyectos {
-        width: 220px;
+        width: 120px;
     }
 
     /* TEXTOS */
