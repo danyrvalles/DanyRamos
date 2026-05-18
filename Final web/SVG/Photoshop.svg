@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="photoshop" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 309.45 297.19">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #383665;
+      }
+
+      .cls-2 {
+        font-family: ArialRoundedMTBold, 'Arial Rounded MT Bold';
+        font-size: 142.71px;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #73b4ee;
+      }
+    </style>
+  </defs>
+  <rect class="cls-3" x="25.73" y="19.6" width="257.98" height="257.98" rx="12" ry="12"/>
+  <rect class="cls-1" x="48.35" y="42.22" width="212.74" height="212.74" rx="12" ry="12"/>
+  <text class="cls-2" transform="translate(67.96 193.06)"><tspan x="0" y="0">Ps</tspan></text>
+</svg>
